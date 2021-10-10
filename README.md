@@ -1,4 +1,4 @@
-# 🔥🔥 Flutter Traveler's Social App  // Requena Alvarez Carlos
+# Practica No. 4. Widget y Layouts en Flutter  // Requena Alvarez Carlos
 
 DSM_42
 
