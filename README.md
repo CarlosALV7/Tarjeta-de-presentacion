@@ -1,14 +1,11 @@
 # Practica No. 4. Widget y Layouts en Flutter  // Requena Alvarez Carlos
 
-DSM_42
-
-<img src="ss/00.png" width="300"/><img src="ss/1.png" width="300"/>
-
-<img src="ss/01.jpg" width="400"> <img src="ss/02.jpg" width="400">
-<img src="ss/03.jpg" width="400"> <img src="ss/04.jpg" width="400">
-<img src="ss/05.jpg" width="400">
-
-
-
-
+# DSM_42
 # Tarjeta-de-presentacion
+
+![Practica No  4 Requena Alvarez Carlos](https://user-images.githubusercontent.com/81074698/136678437-88a5e266-66ee-4f75-aef2-3f170b0bacff.png)
+
+
+
+
+
